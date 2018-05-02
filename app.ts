@@ -40,6 +40,7 @@ hobbies = ['exercise'];
 //tuples have to be a string and a number, order is important
 let address: [string, number] = ['Beststreet', 4567 ];
 
+
 //enum
 //a feature that makes numbers more expressive
 enum Color {
